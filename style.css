@@ -1,0 +1,123 @@
+body{
+    background-color:#b47265;
+}
+.homePage{
+    float: left;
+    height: 480px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+a img{
+    width: 330px;
+}
+.homePage:first-of-type{
+    margin-left: 45px;
+}
+
+#sliki a:hover{
+    opacity: 0.5;
+    border: 0;
+}
+
+#main{
+    background-color: lightgoldenrodyellow ;
+    height: 100px;
+}
+#iva{
+    font-size: 35px;
+    color: #b47265;
+    font-style: italic;
+    font-weight: bold;
+    float:left;
+    clear: left;
+    margin-top: 25px;
+    margin-left: 50px;
+    font-family: "Book Antiqua",serif;
+}
+
+
+.link-meni{
+    color: #b47265;
+    float: right;
+    margin-right: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Book Antiqua",serif;
+    font-size: 17px;
+    margin-top: 35px;
+}
+li{
+    list-style: none;
+}
+
+a{  color: #b47265;
+    text-decoration: none;
+    padding: 3px;
+}
+a:hover{
+    border: 1px solid #b47265;
+}
+#telo{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    clear: both;
+}
+footer{
+    margin-top: 15px;
+    width: 100%;
+    height: 70px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    clear: both;
+}
+
+footer ul{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    color: #b47265;
+    font-size: 15px;
+    font-weight: bold;
+}
+#facebook {
+    list-style-image: url("WEB sliki/facebook1.png");
+}
+#outlook{
+    list-style-image: url("WEB sliki/outlook.png");
+}
+#moni{
+    float: right;
+    margin-top: -490px;
+}
+img{
+    height: 95%;
+    margin: 10px;
+}
+#index{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#text{
+    float: right;
+    width: 40%;
+    margin-right: 110px;
+    margin-top: 120px;
+    color: #b47265;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#text-family{
+    float: right;
+    width: 550px;
+    margin-right: 400px;
+    margin-top: 120px;
+    clear: left;
+    color: #b47265;
+    font-size: 20px;
+    font-weight: bold;
+}
